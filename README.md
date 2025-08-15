@@ -1,8 +1,8 @@
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models**  
 
 ---
-<a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
+<a href="https://instagram.com/epsoft_ir" target="_blank">
+  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="insta epsoft_ir7" />
 </a>
 
 > **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
@@ -86,8 +86,8 @@ You can show your support via:
 
 ## 🔗 Connect With Me
 
-- **X:** [NotLucknite](https://x.com/NotLucknite)
-- **Discord**: `x1xh`
+- **X:** [epsoft98](https://x.com/epsoft98)
+- **Discord**: ``
 
 ---
 
@@ -96,7 +96,7 @@ You can show your support via:
 > ⚠️ **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
 
 > 🔐 **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.io/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
+> Check out **[ZeroLeaks](https://epsoft.ir/)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
 *The company is mine, this is NOT a 3rd party AD.*
 
